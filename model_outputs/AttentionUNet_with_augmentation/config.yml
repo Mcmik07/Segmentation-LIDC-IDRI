@@ -1,0 +1,11 @@
+augmentation: true
+batch_size: 4
+early_stopping: 20
+epochs: 120
+lr: 0.01
+momentum: 0.9
+name: AttentionUNet
+nesterov: false
+num_workers: 2
+optimizer: SGD
+weight_decay: 0.0001
