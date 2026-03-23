@@ -20,7 +20,7 @@ Examples include:
 - `NestedUNET_with_augmentation`
 
 To use the augmented version, set `augmentation=True`.
-
+## 3. Segmentation output
 <img width="1156" height="406" alt="image" src="https://github.com/user-attachments/assets/e0fbb16a-9d64-4167-bc6e-5ed163667d31" />
 
 
