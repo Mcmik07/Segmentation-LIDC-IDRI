@@ -24,6 +24,6 @@ To use the augmented version, set `augmentation=True`.
 <img width="1156" height="406" alt="image" src="https://github.com/user-attachments/assets/e0fbb16a-9d64-4167-bc6e-5ed163667d31" />
 
 
-## 3. Validation
+## 4. Validation
 
 Validate the trained model.
